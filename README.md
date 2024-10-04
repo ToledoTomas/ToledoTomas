@@ -15,6 +15,6 @@
 Breve decripción
 </h1>
 <p>Soy un Desarrollador Full Stack especializado en Backend. Mi formación en SoyHenry y la Universidad Abierta Interamericana (UAI) me ha dotado de habilidades de pensamiento crítico y una mentalidad proactiva necesarias para resolver desafíos complejos de software. 🧑‍💻</p>
-<p>Me apasiona crear sistemas robustos y eficientes utilizando tecnologías como React, TailwindCss, NodeJs, NestJS, TypeScript, PostgreSQL o MongoDB.🌐</p>
+<p>Me apasiona crear sistemas robustos y eficientes utilizando tecnologías como Spring, NodeJs, NestJS, TypeScript, PostgreSQL o MongoDB.🌐</p>
 </div>
 
